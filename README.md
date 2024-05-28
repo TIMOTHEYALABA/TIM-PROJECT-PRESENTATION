@@ -4,5 +4,7 @@ This my first project on data analysis and i currently with the Incubator Nigeri
 ## subsequent project: is about geting data for real estate
 :Excel
 
-:Python
+Python
 tool use [Download here](hhpts:/microsoftpowerbi.com)
+google query sheet:
+select=from table
