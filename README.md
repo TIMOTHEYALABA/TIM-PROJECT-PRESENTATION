@@ -8,3 +8,5 @@ Python
 tool use [Download here](hhpts:/microsoftpowerbi.com)
 google query sheet:
 select=from table
+
+![]()
