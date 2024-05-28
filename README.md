@@ -9,7 +9,7 @@ tool use [Download here](hhpts:/microsoftpowerbi.com)
 google query sheet:
 select=from table
 
-
+!{}(
 
 ![](BIRTHCERTIFICATE.pdf)
 |Heading 1 | Heading 2| Heading 3|
